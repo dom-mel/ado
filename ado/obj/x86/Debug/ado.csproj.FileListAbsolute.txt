@@ -1,0 +1,7 @@
+c:\users\dominik\projects\ado\ado\bin\Debug\Northwind.mdf
+c:\users\dominik\projects\ado\ado\bin\Debug\Northwind_log.ldf
+c:\users\dominik\projects\ado\ado\bin\Debug\ado.exe
+c:\users\dominik\projects\ado\ado\bin\Debug\ado.pdb
+c:\users\dominik\projects\ado\ado\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dominik\projects\ado\ado\obj\x86\Debug\ado.exe
+c:\users\dominik\projects\ado\ado\obj\x86\Debug\ado.pdb
